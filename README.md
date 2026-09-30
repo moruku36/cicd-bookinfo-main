@@ -1,3 +1,11 @@
+# Bookinfo CI/CD Tutorial
+
+[English](README.md) | [日本語](README.ja.md)
+
+Application components for the Bookinfo Kubernetes CI/CD tutorial, covering the container application lifecycle with Tekton and Argo.
+
+---
+
 # Bookinfo
 
 <img width="80%" src="https://gitlab.com/cloudnative_impress/bookinfo-tutorial/-/raw/main/docs/assets/tutorial_logo.png" caption="Bookinfo Tutorial">
